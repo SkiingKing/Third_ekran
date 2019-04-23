@@ -4,4 +4,8 @@
     <string name="TODO">TODO</string>
     <string name="advise_1">Вивчіть краще матеріал</string>
     <string name="advise_1_1">У вас високий результат</string>
+    <string name="topic_statistic">Статистика</string>
+    <string name="result">Результат</string>
+    <string name="data">Дата</string>
+    <string name="subjects">Предмети</string>
 </resources>
